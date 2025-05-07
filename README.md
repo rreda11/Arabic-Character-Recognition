@@ -49,8 +49,6 @@ This project aims to recognize handwritten Arabic characters using both traditio
 
 - Compared the final CNN model with the SVM model using:
   - Test accuracy
-  - Weighted F1-score
-  - Confusion matrix visualization
 
 ---
 
@@ -81,13 +79,7 @@ This project aims to recognize handwritten Arabic characters using both traditio
 - Predicted Arabic character for given images
 - Image visualizations after rotation and preprocessing
 
----
 
-## 🚀 Future Work
-
-- Try data augmentation to boost CNN performance.
-- Experiment with deeper CNN or attention-based models (like Transformers).
-- Explore character-level language models for error correction or context understanding.
 
 
 
